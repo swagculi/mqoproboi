@@ -4,14 +4,14 @@
   "description": "Complete framework to facilitate music commands using discord.js v12",
   "main": "index.js",
   "types": "typings/index.d.ts",
-  "funding": "https://github.com/Androz2091/discord-player?sponsor=1",
+  "funding": "https://github.com/swagculi/mqoproboi?sponsor=1",
   "scripts": {
     "test": "node index.js",
     "generate-docs": "node_modules/.bin/jsdoc --configure .jsdoc.json --verbose"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Androz2091/discord-player.git"
+    "url": "git+https://github.com/swagculi/mqoproboi.git"
   },
   "keywords": [
     "music",
@@ -23,12 +23,12 @@
     "queue",
     "youtube"
   ],
-  "author": "Androz2091",
+  "author": "mqo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Androz2091/discord-player/issues"
+    "url": "https://github.com/swagculi/mqoproboi/issues"
   },
-  "homepage": "https://github.com/Androz2091/discord-player#readme",
+  "homepage": "https://github.com/swagculi/mqoproboi#readme",
   "dependencies": {
     "@types/node": "^14.14.7",
     "chalk": "^4.1.0",
@@ -51,6 +51,6 @@
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^5.0.0",
     "jsdoc": "^3.6.3",
-    "jsdoc-skyceil": "Androz2091/jsdoc-skyceil"
+    "jsdoc-skyceil": "mqoproboi/jsdoc-skyceil"
   }
 }
