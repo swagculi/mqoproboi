@@ -73,9 +73,9 @@ const filters = {
  * @type {PlayerOptions}
  */
 const defaultPlayerOptions = {
-    leaveOnEnd: true,
-    leaveOnStop: true,
-    leaveOnEmpty: true,
+    leaveOnEnd: false,
+    leaveOnStop: false,
+    leaveOnEmpty: false,
     leaveOnEmptyCooldown: 0,
     autoSelfDeaf: true,
     quality: 'high'
